@@ -1,0 +1,12 @@
+ Volume in drive C is 6s
+ Volume Serial Number is CE87-A57A
+
+ Directory of C:\Users\Lenovo\Desktop\MyProject
+
+28-06-2021  22:42    <DIR>          .
+28-06-2021  22:42    <DIR>          ..
+28-06-2021  22:29               387 text.html
+28-06-2021  22:29               358 text1.txt
+28-06-2021  22:42                 0 text2.txt
+               3 File(s)            745 bytes
+               2 Dir(s)  96,169,635,840 bytes free
